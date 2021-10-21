@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, assertj, data, data-jdbc, graalvm, h2, hamcrest, http-client, java, java-application, jdbc-hikari, junit, logback, lombok, management, maven, micrometer, micrometer-prometheus, mockito, netty-server, readme, shade, yaml]
